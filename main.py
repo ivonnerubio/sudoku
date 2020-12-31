@@ -28,5 +28,5 @@ board = (
 print (board)
 
 
-board1 = board[26:31] + board[50:57] + board[]
+board1 = board[26:31] + board[50:57] + board[59:60]
 print(board1)
